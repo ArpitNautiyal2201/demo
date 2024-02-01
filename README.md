@@ -1,4 +1,4 @@
 # demo
 This is demo repository.
 <br>
-Author - Arpit Nautiyal
+Author - Arpit Nauti
